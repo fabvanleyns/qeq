@@ -1,3 +1,3 @@
-module training/qeq
+module github.com/vanleyns/qeq
 
 go 1.17
