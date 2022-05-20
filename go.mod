@@ -1,3 +1,3 @@
-module github.com/vanleyns/qeq
+module github.com/fabvanleyns/qeq
 
 go 1.17
